@@ -1,11 +1,14 @@
 # Compiled source
+__pycache__/
 
 # Folders (distribution / packaging)
 01_Admin/
+02_Helping documents and scripts
 
 # Specific files
+example.py
 
 # TXT
-todo.txt
+
 
 # SVG
