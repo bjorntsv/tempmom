@@ -6,7 +6,7 @@ import unittest
 
 
 class TemporalMomentsTestCase(unittest.TestCase):
-    """Class for test all temporal moments."""
+    """Class for test of all temporal moments."""
 
     def setUp(self):
         """Test case using an exponential function as a signal.

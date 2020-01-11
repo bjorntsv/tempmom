@@ -2,6 +2,8 @@
 
 import numpy as np
 
+__all__ = ['TemporalMoments', 'TemporalMomentsAll']
+
 
 class TemporalMoments():
     """Class for calculation of temporal moments in discrete time signals.

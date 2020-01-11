@@ -7,7 +7,7 @@ with open("README.md", "r") as file:
 
 setup(
       name='tempmom',
-      version='0.0.1',
+      version='1.0.0',
       author='Bjørn T. Svendsen',
       author_email='bjorn.thomas.svendsen@gmail.com',
       description='Implementation of temporal moments',
