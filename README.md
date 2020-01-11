@@ -1,10 +1,26 @@
-# tempmom
+# Temporal Moments
 
 Implementation of temporal moments in python.
-This python package implements temporal moments that statistically characterizes transient dynamic
-signals and describe how the energy of a signal is distributed over time.
+Temporal moments statistically characterizes transient dynamic signals and describe how the energy of a signal is distributed over time.
 
 All moments of order 2 and higher are calculated about the central time, T.
+
+## Installation
+These scripts can be used directly, or downloaded as a Python package. Utilizing this as a Python package can be done by downloading
+the repository and install, e.g. by **pip**
+
+```
+pip install .
+```
+or directly from anaconda cloud
+
+```sh
+conda install -c bjorntsv tempmom
+```
+
+## Content
+The package provides the algorithms for establishing the temporal moments of time series. An example of how to use the script is provided
+in the examples folder.
 
 ## Support
 
