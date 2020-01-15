@@ -3,6 +3,8 @@
 Implementation of temporal moments in Python.
 Temporal moments statistically characterizes transient dynamic signals and describe how the energy of a signal is distributed over time.
 
+[![DOI](https://zenodo.org/badge/233225416.svg)](https://zenodo.org/badge/latestdoi/233225416)
+
 ## Installation
 These scripts can be used directly, or downloaded as a Python package. Utilizing this as a Python package can be done by downloading
 the repository and install, e.g. by **pip**
