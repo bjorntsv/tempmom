@@ -34,5 +34,5 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 Create a branch, add commits, and
 [open a pull request](https://github.com/bjorntsv/tempmom/compare/).
 
-# References
+## References
 [1] Bjørn T. Svendsen, Gunnstein T. Frøseth, Anders Rönnquist, "Damage Detection Applied to a Full-Scale Steel Bridge Using Temporal Moments", Shock and Vibration, vol. 2020, Article ID 3083752, 16 pages, 2020. https://doi.org/10.1155/2020/3083752
