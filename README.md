@@ -22,7 +22,7 @@ conda install -c bjorntsv tempmom
 The package provides the algorithms for establishing the temporal moments of time series. All moments of order 2 and higher are calculated
 about the central time, *T*.
 
-An example of how to use the script is provided in the examples folder.
+An example of how to use the script is provided in the examples folder. For additional details of theory, implementation and use, please see the reference below.
 
 ## Support
 
